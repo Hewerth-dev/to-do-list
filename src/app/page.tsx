@@ -49,7 +49,7 @@ export default function Home() {
 
   return (
     <main className="max-w-md mx-auto mt-10 p-4">
-      <h1 className="text-2xl font-bold mb-4">ToDo App</h1>
+      <h1 className="text-2xl font-bold mb-4">To Do List</h1>
       <div className="flex gap-2 mb-4">
         <input
           className="flex-1 border px-2 py-1 rounded"
